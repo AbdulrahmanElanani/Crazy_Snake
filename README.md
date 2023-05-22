@@ -1,7 +1,7 @@
-# Crezy_Snake
+# Crazy_Snake
 # Important Tips
 Put The Audio Files In Partition D
-# Images From Crezy Snake
+# Images From Crazy Snake
 ![photo_2023-05-22_04-14-34](https://github.com/AbdulrahmanElanani/Crezy_Snake/assets/127989639/e250abe2-5756-46be-bf9a-44fd64aa7e4a)
 ![photo_2023-05-21_20-21-34](https://github.com/AbdulrahmanElanani/Crezy_Snake/assets/127989639/5f579bfe-869b-4565-a4af-c77339999d65)
 ![photo_2023-05-21_20-21-30](https://github.com/AbdulrahmanElanani/Crezy_Snake/assets/127989639/bbaeb744-b4ea-4a0d-801c-d302576d7711)
