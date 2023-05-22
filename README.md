@@ -3,6 +3,8 @@
 Put The Audio Files In Partition D
 # Images From Crazy Snake
 ![photo_2023-05-22_04-14-34](https://github.com/AbdulrahmanElanani/Crezy_Snake/assets/127989639/e250abe2-5756-46be-bf9a-44fd64aa7e4a)
+![photo_2023-05-21_20-21-42](https://github.com/AbdulrahmanElanani/Crezy_Snake/assets/127989639/6c7ec586-29e0-43e6-95b2-3d3d71cf33fa)
+![photo_2023-05-21_20-21-38](https://github.com/AbdulrahmanElanani/Crezy_Snake/assets/127989639/c92e24ae-9b63-4471-84c3-f422e10ffda4)
 ![photo_2023-05-21_20-21-34](https://github.com/AbdulrahmanElanani/Crezy_Snake/assets/127989639/5f579bfe-869b-4565-a4af-c77339999d65)
 ![photo_2023-05-21_20-21-30](https://github.com/AbdulrahmanElanani/Crezy_Snake/assets/127989639/bbaeb744-b4ea-4a0d-801c-d302576d7711)
 ![photo_2023-05-21_20-21-27](https://github.com/AbdulrahmanElanani/Crezy_Snake/assets/127989639/05b7cf91-7f4b-4ffa-a0b1-f4d747b2836a)
